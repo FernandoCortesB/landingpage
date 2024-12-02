@@ -1,0 +1,15 @@
+header{
+background-color: aqua;
+padding: 20px;
+}
+
+.header-menu{
+    align-items: center;
+    display: flex;
+    gap: 20px;
+    justify-content: flex-end;
+    list-style: none;
+    color: blueviolet;
+    }
+
+
